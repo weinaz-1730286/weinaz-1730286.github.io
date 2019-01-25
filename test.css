@@ -10,16 +10,22 @@
 #Content{
     border: solid 8px black;
     width: 700px;
-
+    text-align: center;
 }
 
 #LeftNav{
     border: solid 8px black;
     width: 400px;
     float: left;
+    text-align: center;
 }
 
 #Footer{
     border: solid 8px black;
+    text-align: center;
 }
 
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}

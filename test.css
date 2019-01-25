@@ -1,5 +1,9 @@
 #Header{
     border: solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
 }
 
 #Content{

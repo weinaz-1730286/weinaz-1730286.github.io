@@ -45,3 +45,14 @@ p{
     font-family: "Arial";
     font-weight: bold;
 }
+
+h3{
+    color: #FFBC00;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+}
+
+div{
+    background-color: #8E41D5;
+}

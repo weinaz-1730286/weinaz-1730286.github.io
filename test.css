@@ -39,3 +39,9 @@ ul{
     list-style-type: none;
     padding-left: 0px;
 }
+
+p{
+    color: white;
+    font-family: "Arial";
+    font-weight: bold;
+}

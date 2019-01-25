@@ -7,10 +7,19 @@
     text-align: center;
 }
 
+#Header h1{
+    font-size: 60px;
+    font-family: "Passion One";
+    color: #FFBC00;
+    font-weight: bold;
+}
+
 #Content{
     border: solid 8px black;
     width: 700px;
     text-align: center;
+    padding: 15px;
+    margin-bottom: 10px;
 }
 
 #LeftNav{
@@ -18,6 +27,7 @@
     width: 400px;
     float: left;
     text-align: center;
+    padding-bottom: 8px;
 }
 
 #Footer{

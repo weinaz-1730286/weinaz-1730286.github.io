@@ -7,10 +7,10 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #181818;
+		background: #ee0000;
 		font-family: 'Didact Gothic', sans-serif;
-		font-size: 12pt;
-		font-weight: 200;
+		font-size: 13pt;
+		font-weight: 205;
 		color: #FFF;
 	}
 	
@@ -82,7 +82,7 @@
 	
 	.image-left
 	{
-		float: left;
+		float: right;
 		margin: 0 2em 2em 0;
 	}
 	
@@ -150,11 +150,11 @@
 	ul.contact li a:before
 	{
 		display: inline-block;
-		background: #3f3f3f;
-		width: 40px;
-		height: 40px;
+		background: #ee0000;
+		width: 50px;
+		height: 50px;
 		line-height: 40px;
-		border-radius: 20px;
+		border-radius: 19px;
 		text-align: center;
 		color: #FFFFFF;
 	}
@@ -229,13 +229,13 @@
 	.boxA,
 	.boxB
 	{
-		float: left;
+		float: right;
 		margin-right: 20px;
 	}
 	
 	.boxC
 	{
-		float: right;
+		float: left;
 	}
 
 /*********************************************************************************/
@@ -250,12 +250,12 @@
 	
 	.tbox1
 	{
-		float: left;
+		float: right;
 	}
 
 	.tbox2
 	{
-		float: right;
+		float: left;
 	}
 
 	
@@ -276,7 +276,7 @@
 	.title .byline
 	{
 		font-size: 1.3em;
-		color: rgba(255,255,255,0.60);
+		color: #ee0000(255,255,255,0.60);
 	}
 
 /*********************************************************************************/
@@ -298,7 +298,7 @@
 	{
 		position: relative;
 		padding: 5em 0em 0em 0em;
-		background: #111111 url(images/pic01.jpg) no-repeat center;
+		background: #ee0000 url(images/pic01.jpg) no-repeat center;
 		background-size: cover;
 	}
 
@@ -387,12 +387,12 @@
 	#banner-wrapper
 	{
 		padding: 5em 0em;
-		background: rgba(0,0,0,.8);
+		background: #ee0000(0,0,0,.8);
 	}
 
 	#banner
 	{
-		text-align: center;
+		text-align: left;
 	}
 	
 	#banner .title h2
@@ -460,7 +460,7 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		border-top: 1px solid rgba(0,0,0,0.08);
+		border-top: 1px solid #ee0000(0,0,0,0.08);
 	}
 	
 	#copyright p
@@ -485,7 +485,7 @@
 	{
 		position: relative;
 		padding: 7em 0em 7em 0em;
-		background: #f3cc2f;
+		background: #ee0000;
 		background-size: cover;
 		text-align: center;
 	}
@@ -536,6 +536,6 @@
 	#three-column .title .byline
 	{
 		text-align: center;
-		color: rgba(0,0,0,.5);
+		color: #ee0000(0,0,0,.5);
 	}
 

@@ -21,7 +21,17 @@ h1 {
 img {
     float: right;
   }
-
+  .flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+  }
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+ 
 #rcorners1 {
     border-radius: 25px;
     border: 2px solid #ff6347;

@@ -64,3 +64,28 @@ img {
     border-bottom-style: dotted;
     border-left-style: dotted;
   }
+
+  body {
+    margin: 0px;
+  }
+  
+  .height-100vh {
+    height: 100vh;
+  }
+  
+  .center-aligned {
+    display: box;
+    display: flex;
+    box-align: center;
+    align-items: center;
+    box-pack: center;
+    justify-content: center;
+  }
+  
+  .background-image {
+    position: relative;
+  }
+  
+  .text {
+    position: absolute;
+  }

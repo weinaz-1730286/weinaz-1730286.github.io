@@ -21,6 +21,9 @@ h1 {
 img {
     float: right;
   }
+img {
+    margin: 20px;
+}
   .flex-container {
     display: flex;
     background-color: DodgerBlue;
